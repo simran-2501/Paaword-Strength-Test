@@ -15,21 +15,18 @@ The tool provides real-time scoring and suggestions to help users create stronge
 
 ## **How to Run**
 
-**1. Open the project folder in VS Code.**
-
-**2. Open a terminal in VS Code:**  
+**1. Open a terminal **  
 Terminal → New Terminal
 
-**3. Create and activate the virtual environment:**
-
+**2. Create and activate the virtual environment:**
 **Windows (PowerShell):**
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 
-**4. Install requirements:**
+**3. Install requirements:**
 pip install -r requirements.txt
 
-**5. Run the application:**
+**4. Run the application:**
 python main.py
 
 
