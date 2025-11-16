@@ -1,12 +1,27 @@
-📝 Description
-The Password Strength Tester is a Python desktop application built with Tkinter that helps users analyze the security of their passwords.
+# Password Strength Tester
 
-It evaluates:
-✔️ Password length
-✔️ Character variety (uppercase, lowercase, digits, symbols)
-✔️ Entropy (mathematical strength)
-✔️ Estimated brute-force cracking time
-✔️ Whether the password appears in Have I Been Pwned breach databases
-✔️ Real-time scoring with suggestions
+## **Description**
+The Password Strength Tester is a Python desktop application built with Tkinter that analyzes how strong a password is. It evaluates:
 
-This tool is ideal for cybersecurity learners, students, or anyone interested in strong password practices.
+- Length
+- Character variety (uppercase, lowercase, digits, symbols)
+- Entropy (mathematical strength)
+- Estimated brute-force cracking time
+- Exposure in known data breaches using the Have I Been Pwned (HIBP) API
+
+The tool provides real-time scoring and suggestions to help users create stronger, more secure passwords.
+
+---
+
+## **How to Run the Project**
+
+### **1. Open the Project in VS Code**
+- Open VS Code  
+- Click **File → Open Folder**  
+- Select the folder: `password_strength_tester`
+
+---
+
+### **2. Create a Virtual Environment**
+
+#### **Windows (PowerShell)**
