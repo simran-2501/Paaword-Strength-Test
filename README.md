@@ -13,15 +13,23 @@ The tool provides real-time scoring and suggestions to help users create stronge
 
 ---
 
-## **How to Run the Project**
+## **How to Run**
 
-### **1. Open the Project in VS Code**
-- Open VS Code  
-- Click **File → Open Folder**  
-- Select the folder: `password_strength_tester`
+**1. Open the project folder in VS Code.**
 
----
+**2. Open a terminal in VS Code:**  
+Terminal → New Terminal
 
-### **2. Create a Virtual Environment**
+**3. Create and activate the virtual environment:**
 
-#### **Windows (PowerShell)**
+**Windows (PowerShell):**
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+
+**4. Install requirements:**
+pip install -r requirements.txt
+
+**5. Run the application:**
+python main.py
+
+
