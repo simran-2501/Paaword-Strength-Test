@@ -15,18 +15,15 @@ The tool provides real-time scoring and suggestions to help users create stronge
 
 ## **How to Run**
 
-**1. New Terminal** 
-Terminal → New Terminal
-
-**2. Create and activate the virtual environment:**
+**1. Create and activate the virtual environment:**
 **Windows (PowerShell):**
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 
-**3. Install requirements:**
+**2. Install requirements:**
 pip install -r requirements.txt
 
-**4. Run the application:**
+**3. Run the application:**
 python main.py
 
 
