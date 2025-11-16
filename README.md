@@ -15,7 +15,7 @@ The tool provides real-time scoring and suggestions to help users create stronge
 
 ## **How to Run**
 
-**1. Open a terminal **  
+**1. New Terminal** 
 Terminal → New Terminal
 
 **2. Create and activate the virtual environment:**
